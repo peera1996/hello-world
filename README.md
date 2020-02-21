@@ -1,2 +1,2 @@
 # hello-world
-whats up?
+A easy hello world program
